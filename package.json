@@ -1,7 +1,7 @@
 {
-  "name": "react-pages-boilerplate",
+  "name": "kinhthanh",
   "version": "1.0.0",
-  "description": "Simple boilerplate for working with React, redux, react-router and Github Pages",
+  "description": "A Bible reader web app for Vietnamese",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -19,14 +19,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rtivital/react-pages-boilerplate.git"
+    "url": "git+https://github.com/bibliasacra/kinhthanh.git"
   },
-  "author": "Vitaly Rtishchev <rtivital@gmail.com> (http://github.com/rtivital)",
+  "author": "An Nguyen <timeof2010@gmail.com> (https://github.com/anmap)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rtivital/react-pages-boilerplate/issues"
+    "url": "https://github.com/bibliasacra/kinhthanh/issues"
   },
-  "homepage": "https://github.com/rtivital/react-pages-boilerplate#readme",
+  "homepage": "https://github.com/bibliasacra/kinhthanh#readme",
   "dependencies": {
     "@storybook/addon-actions": "^3.4.10",
     "@storybook/addon-centered": "^3.4.10",
